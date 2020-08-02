@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProfileUI.iml" filepath="$PROJECT_DIR$/ProfileUI.iml" group="ProfileUI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProfileUi02.iml" filepath="$PROJECT_DIR$/.idea/modules/ProfileUi02.iml" group="ProfileUi02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProfileUi02-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProfileUi02-app.iml" group="ProfileUi02/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ProfileUI/app" />
+    </modules>
+  </component>
+</project>
